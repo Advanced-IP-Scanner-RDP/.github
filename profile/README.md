@@ -25,7 +25,7 @@ Searches such as Advanced IP Scanner network scan, Advanced IP Scanner LAN disco
 | **Remembers context** | Ranges, favorites, and history help you return to the next task fast. |
 | **Fast feedback** | Open Advanced IP Scanner, pick a range, and scan without switching tools. |
 
-![Advanced IP Scanner](https://avatars.mds.yandex.net/i?id=1e0fe10e369bc2bba251f7a096e31b86_l-5221784-images-thumbs&n=13)
+![Advanced IP Scanner](https://www.advanced-ip-scanner.com/images/aips/screenshots/24/ru/14_settings.png)
 
 ## Key Features of Advanced IP Scanner
 
